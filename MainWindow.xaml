@@ -1,0 +1,15 @@
+﻿<Window x:Class="BarCodeGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BarCodeGenerator"
+        mc:Ignorable="d"
+        Title="Генератор Штрих-кода" Height="250" Width="300">
+    <Grid>
+        <StackPanel>
+            <Button Name="ButtGenerate" Width="100" Click="ButtGenerate_Click" Margin="0,10">Сгенерировать</Button>
+            <StackPanel Name="SPCode" Width="200" Height="150" Margin="0,10" Orientation="Horizontal"></StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

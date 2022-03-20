@@ -1,0 +1,15 @@
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe.config
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.exe
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\bin\Debug\BarCodeGenerator.pdb
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csprojAssemblyReference.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\App.g.cs
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator_MarkupCompile.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator_MarkupCompile.lref
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\MainWindow.baml
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.g.resources
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.Properties.Resources.resources
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.GenerateResource.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.exe
+C:\Users\КурниковДЮ\source\repos\BarCodeGenerator\obj\Debug\BarCodeGenerator.pdb
